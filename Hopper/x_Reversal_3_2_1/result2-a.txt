@@ -1,0 +1,608 @@
+[*] Starting GDB
+[x] Starting local process '/usr/bin/gdb'
+[+] Starting local process '/usr/bin/gdb': pid 309
+[*] Set main() breakpoint
+[*] Running
+[*] Calling bananagrams0()
+[*] Returning bananagrams0()
+2
+$1 = 2
+[*] Continuing bananagrams0()
+
+[*]  
+[*] Calling bananagrams1()
+[*] Returning bananagrams1()
+$2 = 0
+[*] Continuing bananagrams1()
+
+[*]  
+[*] Calling bananagrams2()
+[*] Returning bananagrams2()
+$3 = 0
+[*] Continuing bananagrams2()
+
+[*]  
+[*] Calling bananagrams3()
+[*] Returning bananagrams3()
+4
+$4 = 2
+[*] Continuing bananagrams3()
+
+[*]  
+[*] Calling bananagrams4()
+[*] Returning bananagrams4()
+$5 = 0
+[*] Continuing bananagrams4()
+
+[*]  
+[*] Calling bananagrams5()
+[*] Returning bananagrams5()
+$6 = 2
+[*] Continuing bananagrams5()
+g:
+[*]  
+[*] Calling bananagrams6()
+[*] Returning bananagrams6()
+2
+$7 = 2
+[*] Continuing bananagrams6()
+
+[*]  
+[*] Calling bananagrams7()
+[*] Returning bananagrams7()
+$8 = 0
+[*] Continuing bananagrams7()
+
+[*]  
+[*] Calling bananagrams8()
+[*] Returning bananagrams8()
+$9 = 0
+[*] Continuing bananagrams8()
+
+[*]  
+[*] Calling bananagrams9()
+[*] Returning bananagrams9()
+$10 = 0
+[*] Continuing bananagrams9()
+
+[*]  
+[*] Calling bananagrams10()
+[*] Returning bananagrams10()
+$11 = 0
+[*] Continuing bananagrams10()
+
+[*]  
+[*] Calling bananagrams11()
+[*] Returning bananagrams11()
+$12 = 0
+[*] Continuing bananagrams11()
+
+[*]  
+[*] Calling bananagrams12()
+[*] Returning bananagrams12()
+$13 = 0
+[*] Continuing bananagrams12()
+
+[*]  
+[*] Calling bananagrams13()
+[*] Returning bananagrams13()
+$14 = 0
+[*] Continuing bananagrams13()
+
+[*]  
+[*] Calling bananagrams14()
+[*] Returning bananagrams14()
+$15 = 8
+[*] Continuing bananagrams14()
+_a_byte_
+[*]  
+[*] Calling bananagrams15()
+[*] Returning bananagrams15()
+$16 = 0
+[*] Continuing bananagrams15()
+
+[*]  
+[*] Calling bananagrams16()
+[*] Returning bananagrams16()
+$17 = 0
+[*] Continuing bananagrams16()
+
+[*]  
+[*] Calling bananagrams17()
+[*] Returning bananagrams17()
+$18 = 0
+[*] Continuing bananagrams17()
+
+[*]  
+[*] Calling bananagrams18()
+[*] Returning bananagrams18()
+$19 = 0
+[*] Continuing bananagrams18()
+
+[*]  
+[*] Calling bananagrams19()
+[*] Returning bananagrams19()
+$20 = 0
+[*] Continuing bananagrams19()
+
+[*]  
+[*] Calling bananagrams20()
+[*] Returning bananagrams20()
+$21 = 0
+[*] Continuing bananagrams20()
+
+[*]  
+[*] Calling bananagrams21()
+[*] Returning bananagrams21()
+$22 = 0
+[*] Continuing bananagrams21()
+
+[*]  
+[*] Calling bananagrams22()
+[*] Returning bananagrams22()
+$23 = 0
+[*] Continuing bananagrams22()
+
+[*]  
+[*] Calling bananagrams23()
+[*] Returning bananagrams23()
+$24 = 4
+[*] Continuing bananagrams23()
+_917
+[*]  
+[*] Calling bananagrams24()
+[*] Returning bananagrams24()
+$25 = 0
+[*] Continuing bananagrams24()
+
+[*]  
+[*] Calling bananagrams25()
+[*] Returning bananagrams25()
+$26 = 0
+[*] Continuing bananagrams25()
+
+[*]  
+[*] Calling bananagrams26()
+[*] Returning bananagrams26()
+$27 = 0
+[*] Continuing bananagrams26()
+
+[*]  
+[*] Calling bananagrams27()
+[*] Returning bananagrams27()
+$28 = 0
+[*] Continuing bananagrams27()
+
+[*]  
+[*] Calling bananagrams28()
+[*] Returning bananagrams28()
+$29 = 0
+[*] Continuing bananagrams28()
+
+[*]  
+[*] Calling bananagrams29()
+[*] Returning bananagrams29()
+$30 = 0
+[*] Continuing bananagrams29()
+
+[*]  
+[*] Calling bananagrams30()
+[*] Returning bananagrams30()
+$31 = 0
+[*] Continuing bananagrams30()
+
+[*]  
+[*] Calling bananagrams31()
+[*] Returning bananagrams31()
+2
+$32 = 2
+[*] Continuing bananagrams31()
+
+[*]  
+[*] Calling bananagrams32()
+[*] Returning bananagrams32()
+$33 = 0
+[*] Continuing bananagrams32()
+
+[*]  
+[*] Calling bananagrams33()
+[*] Returning bananagrams33()
+$34 = 0
+[*] Continuing bananagrams33()
+
+[*]  
+[*] Calling bananagrams34()
+[*] Returning bananagrams34()
+$35 = 0
+[*] Continuing bananagrams34()
+
+[*]  
+[*] Calling bananagrams35()
+[*] Returning bananagrams35()
+$36 = 0
+[*] Continuing bananagrams35()
+
+[*]  
+[*] Calling bananagrams36()
+[*] Returning bananagrams36()
+$37 = 3
+[*] Continuing bananagrams36()
+fla
+[*]  
+[*] Calling bananagrams37()
+[*] Returning bananagrams37()
+$38 = 0
+[*] Continuing bananagrams37()
+
+[*]  
+[*] Calling bananagrams38()
+[*] Returning bananagrams38()
+$39 = 0
+[*] Continuing bananagrams38()
+
+[*]  
+[*] Calling bananagrams39()
+[*] Returning bananagrams39()
+$40 = 0
+[*] Continuing bananagrams39()
+
+[*]  
+[*] Calling bananagrams40()
+[*] Returning bananagrams40()
+$41 = 0
+[*] Continuing bananagrams40()
+
+[*]  
+[*] Calling bananagrams41()
+[*] Returning bananagrams41()
+$42 = 0
+[*] Continuing bananagrams41()
+
+[*]  
+[*] Calling bananagrams42()
+[*] Returning bananagrams42()
+$43 = 5
+[*] Continuing bananagrams42()
+amble
+[*]  
+[*] Calling bananagrams43()
+[*] Returning bananagrams43()
+$44 = 100
+[*] Continuing bananagrams43()
+d
+[*]  
+[*] Calling bananagrams44()
+[*] Returning bananagrams44()
+$45 = 0
+[*] Continuing bananagrams44()
+
+[*]  
+[*] Calling bananagrams45()
+[*] Returning bananagrams45()
+$46 = 0
+[*] Continuing bananagrams45()
+
+[*]  
+[*] Calling bananagrams46()
+[*] Returning bananagrams46()
+$47 = 4
+[*] Continuing bananagrams46()
+_910
+[*]  
+[*] Calling bananagrams47()
+[*] Returning bananagrams47()
+$48 = 0
+[*] Continuing bananagrams47()
+
+[*]  
+[*] Calling bananagrams48()
+[*] Returning bananagrams48()
+1
+$49 = 2
+[*] Continuing bananagrams48()
+
+[*]  
+[*] Calling bananagrams49()
+[*] Returning bananagrams49()
+$50 = 0
+[*] Continuing bananagrams49()
+
+[*]  
+[*] Calling bananagrams50()
+[*] Returning bananagrams50()
+$51 = 0
+[*] Continuing bananagrams50()
+
+[*]  
+[*] Calling bananagrams51()
+[*] Returning bananagrams51()
+$52 = 0
+[*] Continuing bananagrams51()
+
+[*]  
+[*] Calling bananagrams52()
+[*] Returning bananagrams52()
+$53 = 4
+[*] Continuing bananagrams52()
+102_
+[*]  
+[*] Calling bananagrams53()
+[*] Returning bananagrams53()
+$54 = 0
+[*] Continuing bananagrams53()
+
+[*]  
+[*] Calling bananagrams54()
+[*] Returning bananagrams54()
+$55 = 4
+[*] Continuing bananagrams54()
+_108
+[*]  
+[*] Calling bananagrams55()
+[*] Returning bananagrams55()
+$56 = 0
+[*] Continuing bananagrams55()
+
+[*]  
+[*] Calling bananagrams56()
+[*] Returning bananagrams56()
+$57 = 3
+[*] Continuing bananagrams56()
+_10
+[*]  
+[*] Calling bananagrams57()
+[*] Returning bananagrams57()
+$58 = 0
+[*] Continuing bananagrams57()
+
+[*]  
+[*] Calling bananagrams58()
+[*] Returning bananagrams58()
+$59 = 0
+[*] Continuing bananagrams58()
+
+[*]  
+[*] Calling bananagrams59()
+[*] Returning bananagrams59()
+$60 = 0
+[*] Continuing bananagrams59()
+
+[*]  
+[*] Calling bananagrams60()
+[*] Returning bananagrams60()
+$61 = 0
+[*] Continuing bananagrams60()
+
+[*]  
+[*] Calling bananagrams61()
+[*] Returning bananagrams61()
+$62 = 4
+[*] Continuing bananagrams61()
+_104
+[*]  
+[*] Calling bananagrams62()
+[*] Returning bananagrams62()
+2
+$63 = 2
+[*] Continuing bananagrams62()
+
+[*]  
+[*] Calling bananagrams63()
+[*] Returning bananagrams63()
+$64 = 0
+[*] Continuing bananagrams63()
+
+[*]  
+[*] Calling bananagrams64()
+[*] Returning bananagrams64()
+$65 = 0
+[*] Continuing bananagrams64()
+
+[*]  
+[*] Calling bananagrams65()
+[*] Returning bananagrams65()
+$66 = 0
+[*] Continuing bananagrams65()
+
+[*]  
+[*] Calling bananagrams66()
+[*] Returning bananagrams66()
+$67 = 0
+[*] Continuing bananagrams66()
+
+[*]  
+[*] Calling bananagrams67()
+[*] Returning bananagrams67()
+$68 = 0
+[*] Continuing bananagrams67()
+
+[*]  
+[*] Calling bananagrams68()
+[*] Returning bananagrams68()
+$69 = 0
+[*] Continuing bananagrams68()
+
+[*]  
+[*] Calling bananagrams69()
+[*] Returning bananagrams69()
+$70 = 0
+[*] Continuing bananagrams69()
+
+[*]  
+[*] Calling bananagrams70()
+[*] Returning bananagrams70()
+$71 = 0
+[*] Continuing bananagrams70()
+
+[*]  
+[*] Calling bananagrams71()
+[*] Returning bananagrams71()
+$72 = 0
+[*] Continuing bananagrams71()
+
+[*]  
+[*] Calling bananagrams72()
+[*] Returning bananagrams72()
+$73 = 3
+[*] Continuing bananagrams72()
+scr
+[*]  
+[*] Calling bananagrams73()
+[*] Returning bananagrams73()
+$74 = 0
+[*] Continuing bananagrams73()
+
+[*]  
+[*] Calling bananagrams74()
+[*] Returning bananagrams74()
+$75 = 0
+[*] Continuing bananagrams74()
+
+[*]  
+[*] Calling bananagrams75()
+[*] Returning bananagrams75()
+$76 = 0
+[*] Continuing bananagrams75()
+
+[*]  
+[*] Calling bananagrams76()
+[*] Returning bananagrams76()
+$77 = 0
+[*] Continuing bananagrams76()
+
+[*]  
+[*] Calling bananagrams77()
+[*] Returning bananagrams77()
+$78 = 0
+[*] Continuing bananagrams77()
+
+[*]  
+[*] Calling bananagrams78()
+[*] Returning bananagrams78()
+$79 = 0
+[*] Continuing bananagrams78()
+
+[*]  
+[*] Calling bananagrams79()
+[*] Returning bananagrams79()
+$80 = 0
+[*] Continuing bananagrams79()
+
+[*]  
+[*] Calling bananagrams80()
+[*] Returning bananagrams80()
+$81 = 0
+[*] Continuing bananagrams80()
+
+[*]  
+[*] Calling bananagrams81()
+[*] Returning bananagrams81()
+$82 = 0
+[*] Continuing bananagrams81()
+
+[*]  
+[*] Calling bananagrams82()
+[*] Returning bananagrams82()
+$83 = 4
+[*] Continuing bananagrams82()
+902_
+[*]  
+[*] Calling bananagrams83()
+[*] Returning bananagrams83()
+$84 = 0
+[*] Continuing bananagrams83()
+
+[*]  
+[*] Calling bananagrams84()
+[*] Returning bananagrams84()
+$85 = 0
+[*] Continuing bananagrams84()
+
+[*]  
+[*] Calling bananagrams85()
+[*] Returning bananagrams85()
+$86 = 0
+[*] Continuing bananagrams85()
+
+[*]  
+[*] Calling bananagrams86()
+[*] Returning bananagrams86()
+$87 = 0
+[*] Continuing bananagrams86()
+
+[*]  
+[*] Calling bananagrams87()
+[*] Returning bananagrams87()
+$88 = 0
+[*] Continuing bananagrams87()
+
+[*]  
+[*] Calling bananagrams88()
+[*] Returning bananagrams88()
+$89 = 0
+[*] Continuing bananagrams88()
+
+[*]  
+[*] Calling bananagrams89()
+[*] Returning bananagrams89()
+$90 = 0
+[*] Continuing bananagrams89()
+
+[*]  
+[*] Calling bananagrams90()
+[*] Returning bananagrams90()
+$91 = 4
+[*] Continuing bananagrams90()
+_104
+[*]  
+[*] Calling bananagrams91()
+[*] Returning bananagrams91()
+$92 = 0
+[*] Continuing bananagrams91()
+
+[*]  
+[*] Calling bananagrams92()
+[*] Returning bananagrams92()
+$93 = 4
+[*] Continuing bananagrams92()
+_102
+[*]  
+[*] Calling bananagrams93()
+[*] Returning bananagrams93()
+$94 = 17
+[*] Continuing bananagrams93()
+askjndlfalsfjlkfs
+[*]  
+[*] Calling bananagrams94()
+[*] Returning bananagrams94()
+$95 = 0
+[*] Continuing bananagrams94()
+
+[*]  
+[*] Calling bananagrams95()
+[*] Returning bananagrams95()
+$96 = 5
+[*] Continuing bananagrams95()
+_1042
+[*]  
+[*] Calling bananagrams96()
+[*] Returning bananagrams96()
+1
+$97 = 2
+[*] Continuing bananagrams96()
+
+[*]  
+[*] Calling bananagrams97()
+[*] Returning bananagrams97()
+$98 = 0
+[*] Continuing bananagrams97()
+
+[*]  
+[*] Calling bananagrams98()
+[*] Returning bananagrams98()
+$99 = 0
+[*] Continuing bananagrams98()
+
+[*]  
+[*] Calling bananagrams99()
+[*] Stopped process '/usr/bin/gdb' (pid 309)

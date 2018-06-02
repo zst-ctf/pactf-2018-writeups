@@ -1,0 +1,410 @@
+[*] Starting GDB
+[x] Starting local process '/usr/bin/gdb'
+[+] Starting local process '/usr/bin/gdb': pid 143
+[*] Set main() breakpoint
+[*] Running
+[*] Calling bananagrams0()
+[*] Returning bananagrams0()
+2
+$1 = 2
+[*]  
+[*] Calling bananagrams1()
+[*] Returning bananagrams1()
+$2 = 0
+[*]  
+[*] Calling bananagrams2()
+[*] Returning bananagrams2()
+$3 = 0
+[*]  
+[*] Calling bananagrams3()
+[*] Returning bananagrams3()
+4
+$4 = 2
+[*]  
+[*] Calling bananagrams4()
+[*] Returning bananagrams4()
+$5 = 0
+[*]  
+[*] Calling bananagrams5()
+[*] Returning bananagrams5()
+$6 = 2
+[*]  
+[*] Calling bananagrams6()
+[*] Returning bananagrams6()
+g:2
+$7 = 2
+[*]  
+[*] Calling bananagrams7()
+[*] Returning bananagrams7()
+$8 = 0
+[*]  
+[*] Calling bananagrams8()
+[*] Returning bananagrams8()
+$9 = 0
+[*]  
+[*] Calling bananagrams9()
+[*] Returning bananagrams9()
+$10 = 0
+[*]  
+[*] Calling bananagrams10()
+[*] Returning bananagrams10()
+$11 = 0
+[*]  
+[*] Calling bananagrams11()
+[*] Returning bananagrams11()
+$12 = 0
+[*]  
+[*] Calling bananagrams12()
+[*] Returning bananagrams12()
+$13 = 0
+[*]  
+[*] Calling bananagrams13()
+[*] Returning bananagrams13()
+$14 = 0
+[*]  
+[*] Calling bananagrams14()
+[*] Returning bananagrams14()
+$15 = 8
+[*]  
+[*] Calling bananagrams15()
+[*] Returning bananagrams15()
+$16 = 0
+[*]  
+[*] Calling bananagrams16()
+[*] Returning bananagrams16()
+$17 = 0
+[*]  
+[*] Calling bananagrams17()
+[*] Returning bananagrams17()
+$18 = 0
+[*]  
+[*] Calling bananagrams18()
+[*] Returning bananagrams18()
+$19 = 0
+[*]  
+[*] Calling bananagrams19()
+[*] Returning bananagrams19()
+$20 = 0
+[*]  
+[*] Calling bananagrams20()
+[*] Returning bananagrams20()
+$21 = 0
+[*]  
+[*] Calling bananagrams21()
+[*] Returning bananagrams21()
+$22 = 0
+[*]  
+[*] Calling bananagrams22()
+[*] Returning bananagrams22()
+$23 = 0
+[*]  
+[*] Calling bananagrams23()
+[*] Returning bananagrams23()
+$24 = 4
+[*]  
+[*] Calling bananagrams24()
+[*] Returning bananagrams24()
+$25 = 0
+[*]  
+[*] Calling bananagrams25()
+[*] Returning bananagrams25()
+$26 = 0
+[*]  
+[*] Calling bananagrams26()
+[*] Returning bananagrams26()
+$27 = 0
+[*]  
+[*] Calling bananagrams27()
+[*] Returning bananagrams27()
+$28 = 0
+[*]  
+[*] Calling bananagrams28()
+[*] Returning bananagrams28()
+$29 = 0
+[*]  
+[*] Calling bananagrams29()
+[*] Returning bananagrams29()
+$30 = 0
+[*]  
+[*] Calling bananagrams30()
+[*] Returning bananagrams30()
+$31 = 0
+[*]  
+[*] Calling bananagrams31()
+[*] Returning bananagrams31()
+_a_byte__9172
+$32 = 2
+[*]  
+[*] Calling bananagrams32()
+[*] Returning bananagrams32()
+$33 = 0
+[*]  
+[*] Calling bananagrams33()
+[*] Returning bananagrams33()
+$34 = 0
+[*]  
+[*] Calling bananagrams34()
+[*] Returning bananagrams34()
+$35 = 0
+[*]  
+[*] Calling bananagrams35()
+[*] Returning bananagrams35()
+$36 = 0
+[*]  
+[*] Calling bananagrams36()
+[*] Returning bananagrams36()
+$37 = 3
+[*]  
+[*] Calling bananagrams37()
+[*] Returning bananagrams37()
+$38 = 0
+[*]  
+[*] Calling bananagrams38()
+[*] Returning bananagrams38()
+$39 = 0
+[*]  
+[*] Calling bananagrams39()
+[*] Returning bananagrams39()
+$40 = 0
+[*]  
+[*] Calling bananagrams40()
+[*] Returning bananagrams40()
+$41 = 0
+[*]  
+[*] Calling bananagrams41()
+[*] Returning bananagrams41()
+$42 = 0
+[*]  
+[*] Calling bananagrams42()
+[*] Returning bananagrams42()
+$43 = 5
+[*]  
+[*] Calling bananagrams43()
+[*] Returning bananagrams43()
+$44 = 100
+[*]  
+[*] Calling bananagrams44()
+[*] Returning bananagrams44()
+$45 = 0
+[*]  
+[*] Calling bananagrams45()
+[*] Returning bananagrams45()
+$46 = 0
+[*]  
+[*] Calling bananagrams46()
+[*] Returning bananagrams46()
+$47 = 4
+[*]  
+[*] Calling bananagrams47()
+[*] Returning bananagrams47()
+$48 = 0
+[*]  
+[*] Calling bananagrams48()
+[*] Returning bananagrams48()
+flaambled_9101
+$49 = 2
+[*]  
+[*] Calling bananagrams49()
+[*] Returning bananagrams49()
+$50 = 0
+[*]  
+[*] Calling bananagrams50()
+[*] Returning bananagrams50()
+$51 = 0
+[*]  
+[*] Calling bananagrams51()
+[*] Returning bananagrams51()
+$52 = 0
+[*]  
+[*] Calling bananagrams52()
+[*] Returning bananagrams52()
+$53 = 4
+[*]  
+[*] Calling bananagrams53()
+[*] Returning bananagrams53()
+$54 = 0
+[*]  
+[*] Calling bananagrams54()
+[*] Returning bananagrams54()
+$55 = 4
+[*]  
+[*] Calling bananagrams55()
+[*] Returning bananagrams55()
+$56 = 0
+[*]  
+[*] Calling bananagrams56()
+[*] Returning bananagrams56()
+$57 = 3
+[*]  
+[*] Calling bananagrams57()
+[*] Returning bananagrams57()
+$58 = 0
+[*]  
+[*] Calling bananagrams58()
+[*] Returning bananagrams58()
+$59 = 0
+[*]  
+[*] Calling bananagrams59()
+[*] Returning bananagrams59()
+$60 = 0
+[*]  
+[*] Calling bananagrams60()
+[*] Returning bananagrams60()
+$61 = 0
+[*]  
+[*] Calling bananagrams61()
+[*] Returning bananagrams61()
+$62 = 4
+[*]  
+[*] Calling bananagrams62()
+[*] Returning bananagrams62()
+102__108_10_1042
+$63 = 2
+[*]  
+[*] Calling bananagrams63()
+[*] Returning bananagrams63()
+$64 = 0
+[*]  
+[*] Calling bananagrams64()
+[*] Returning bananagrams64()
+$65 = 0
+[*]  
+[*] Calling bananagrams65()
+[*] Returning bananagrams65()
+$66 = 0
+[*]  
+[*] Calling bananagrams66()
+[*] Returning bananagrams66()
+$67 = 0
+[*]  
+[*] Calling bananagrams67()
+[*] Returning bananagrams67()
+$68 = 0
+[*]  
+[*] Calling bananagrams68()
+[*] Returning bananagrams68()
+$69 = 0
+[*]  
+[*] Calling bananagrams69()
+[*] Returning bananagrams69()
+$70 = 0
+[*]  
+[*] Calling bananagrams70()
+[*] Returning bananagrams70()
+$71 = 0
+[*]  
+[*] Calling bananagrams71()
+[*] Returning bananagrams71()
+$72 = 0
+[*]  
+[*] Calling bananagrams72()
+[*] Returning bananagrams72()
+$73 = 3
+[*]  
+[*] Calling bananagrams73()
+[*] Returning bananagrams73()
+$74 = 0
+[*]  
+[*] Calling bananagrams74()
+[*] Returning bananagrams74()
+$75 = 0
+[*]  
+[*] Calling bananagrams75()
+[*] Returning bananagrams75()
+$76 = 0
+[*]  
+[*] Calling bananagrams76()
+[*] Returning bananagrams76()
+$77 = 0
+[*]  
+[*] Calling bananagrams77()
+[*] Returning bananagrams77()
+$78 = 0
+[*]  
+[*] Calling bananagrams78()
+[*] Returning bananagrams78()
+$79 = 0
+[*]  
+[*] Calling bananagrams79()
+[*] Returning bananagrams79()
+$80 = 0
+[*]  
+[*] Calling bananagrams80()
+[*] Returning bananagrams80()
+$81 = 0
+[*]  
+[*] Calling bananagrams81()
+[*] Returning bananagrams81()
+$82 = 0
+[*]  
+[*] Calling bananagrams82()
+[*] Returning bananagrams82()
+$83 = 4
+[*]  
+[*] Calling bananagrams83()
+[*] Returning bananagrams83()
+$84 = 0
+[*]  
+[*] Calling bananagrams84()
+[*] Returning bananagrams84()
+$85 = 0
+[*]  
+[*] Calling bananagrams85()
+[*] Returning bananagrams85()
+$86 = 0
+[*]  
+[*] Calling bananagrams86()
+[*] Returning bananagrams86()
+$87 = 0
+[*]  
+[*] Calling bananagrams87()
+[*] Returning bananagrams87()
+$88 = 0
+[*]  
+[*] Calling bananagrams88()
+[*] Returning bananagrams88()
+$89 = 0
+[*]  
+[*] Calling bananagrams89()
+[*] Returning bananagrams89()
+$90 = 0
+[*]  
+[*] Calling bananagrams90()
+[*] Returning bananagrams90()
+$91 = 4
+[*]  
+[*] Calling bananagrams91()
+[*] Returning bananagrams91()
+$92 = 0
+[*]  
+[*] Calling bananagrams92()
+[*] Returning bananagrams92()
+$93 = 4
+[*]  
+[*] Calling bananagrams93()
+[*] Returning bananagrams93()
+$94 = 17
+[*]  
+[*] Calling bananagrams94()
+[*] Returning bananagrams94()
+$95 = 0
+[*]  
+[*] Calling bananagrams95()
+[*] Returning bananagrams95()
+$96 = 5
+[*]  
+[*] Calling bananagrams96()
+[*] Returning bananagrams96()
+scr902__104_102askjndlfalsfjlkfs_10421
+$97 = 2
+[*]  
+[*] Calling bananagrams97()
+[*] Returning bananagrams97()
+$98 = 0
+[*]  
+[*] Calling bananagrams98()
+[*] Returning bananagrams98()
+$99 = 0
+[*]  
+[*] Calling bananagrams99()
+[*] Stopped process '/usr/bin/gdb' (pid 143)
