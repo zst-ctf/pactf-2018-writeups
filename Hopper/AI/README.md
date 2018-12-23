@@ -9,7 +9,7 @@
 
 ## Solution
 
-Brainfuck language. Paste the code into any Javascript interpreter and we see the text:
+JSfuck language. It is obfuscated JavaScript. Paste the code into any Javascript interpreter and we see the text:
 
 	"Congrats! You've uncovered the truth. Now go here: ibarakaiev.shpp.me/pactf_s7fj43/ai.zip"
 
